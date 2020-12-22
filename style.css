@@ -1,0 +1,28 @@
+input {
+    font-family: sans-serif;
+
+    background: #000;
+    color: #ffffff;
+
+    border: .1rem solid #ff4754;
+    border-radius: .2rem;
+    outline: none;
+
+    padding: 1.2rem .8rem;
+
+}
+
+#caps-message {
+    color: #ff4754;
+
+    display: none;
+    align-items: center;
+
+    margin-top: 2rem;
+
+}
+
+#caps-message svg {
+    margin-right: .4rem;
+}
+
