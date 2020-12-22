@@ -1,2 +1,2 @@
 # CAPS-LOCK-detectors
-more mon CODEPEN ` https://codepen.io/sbasshub/pen/LYRjebB `
+more on CODEPEN ` https://codepen.io/sbasshub/pen/LYRjebB `
