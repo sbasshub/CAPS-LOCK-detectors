@@ -13,12 +13,14 @@ input {
 }
 
 #caps-message {
+    margin: auto;
     color: #ff4754;
 
     display: none;
     align-items: center;
 
     margin-top: 2rem;
+    font-style: bold;
 
 }
 
@@ -26,3 +28,7 @@ input {
     margin-right: .4rem;
 }
 
+.holo {
+    margin: 20% 40%;
+    font-family: sans-serif;
+}
